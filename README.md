@@ -1,4 +1,4 @@
-![The Glowing Tube](readme/header.jpg)
+<!-- ![The Glowing Tube](readme/header.jpg) -->
 
 ## What is this project?
 
