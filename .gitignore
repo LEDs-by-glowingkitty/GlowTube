@@ -10,3 +10,4 @@ node_modules
 wifi_credentials.json
 *_autosave
 *.pwmx
+*.step
