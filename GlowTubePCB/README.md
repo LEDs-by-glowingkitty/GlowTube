@@ -12,3 +12,4 @@ The main PCB for GlowTube, controlling and powering the connected LEDs.
 
 - [Schematic](https://github.com/glowingkitty/GlowTube/blob/main/GlowTubePCB/GlowTube.pdf)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/glowingkitty/GlowTube/blob/main/GlowTubePCB/bom/ibom.html)
+- [3D printable stencil](https://github.com/glowingkitty/GlowTube/blob/main/GlowTubePCB/stencil.stl)
