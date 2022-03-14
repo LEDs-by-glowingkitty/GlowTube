@@ -88,7 +88,7 @@
   )
 
   (net 0 "")
-  (net 1 "LED1 DATA OUT")
+  (net 1 "Net-(LED2-Pad2)")
 
   (footprint "Connector:LED strip connector pad" (layer "F.Cu")
     (tedit 622D04C1) (tstamp 97bd9714-3d1b-4f96-8078-0f55c85e36bd)
@@ -96,7 +96,7 @@
     (property "Sheetfile" "GlowTubeLEDconnectorB_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/e0723ce8-0ee3-4ef8-8070-26417d03176c")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "LED1" (at 0.1524 -3.5306 -90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e203f2f7-5652-4987-a501-3dc243de509d)
@@ -111,7 +111,7 @@
     )
     (fp_rect (start -5 -12.1412) (end 5 -2.159) (layer "F.Fab") (width 0.12) (fill none) (tstamp de5bd3e8-58d2-4a0a-bff9-e0905427e1d6))
     (pad "2" smd rect (at 0.0381 -0.381 270) (size 2 3.5) (layers "F.Cu" "F.Mask")
-      (net 1 "LED1 DATA OUT") (pinfunction "Data") (pintype "bidirectional") (tstamp b5567332-d781-44dc-971e-60b701457f34))
+      (net 1 "Net-(LED2-Pad2)") (pinfunction "Data") (pintype "bidirectional") (tstamp b5567332-d781-44dc-971e-60b701457f34))
   )
 
   (footprint "Connector:LED strip connector pad" (layer "F.Cu")
@@ -120,7 +120,7 @@
     (property "Sheetfile" "GlowTubeLEDconnectorB_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/eb859bd5-cb67-40bf-81dc-6bcf74142183")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "LED2" (at 0.1524 -3.5306 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be3b65a3-e889-49fc-b2bd-7a31d1db3421)
@@ -135,7 +135,7 @@
     )
     (fp_rect (start -5 -12.1412) (end 5 -2.159) (layer "F.Fab") (width 0.12) (fill none) (tstamp 0374c5c9-14be-496c-b162-436b538e8b81))
     (pad "2" smd rect (at 0.0381 -0.381 90) (size 2 3.5) (layers "F.Cu" "F.Mask")
-      (net 1 "LED1 DATA OUT") (pinfunction "Data") (pintype "bidirectional") (tstamp 2ff40e14-13c7-4007-8e0a-65c3ec20d606))
+      (net 1 "Net-(LED2-Pad2)") (pinfunction "Data") (pintype "bidirectional") (tstamp 2ff40e14-13c7-4007-8e0a-65c3ec20d606))
   )
 
   (gr_arc (start 89.054214 72.48) (mid 88.842082 72.392132) (end 88.754214 72.18) (layer "Edge.Cuts") (width 0.1) (tstamp 0b74c229-7957-49cd-8be7-e2c92c4deae5))
