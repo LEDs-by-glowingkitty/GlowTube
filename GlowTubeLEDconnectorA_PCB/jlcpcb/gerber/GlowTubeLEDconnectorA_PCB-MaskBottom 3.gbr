@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4-0)*%
+%TF.CreationDate,2022-05-04T20:07:09+02:00*%
+%TF.ProjectId,GlowTubeLEDconnectorA_PCB,476c6f77-5475-4626-954c-4544636f6e6e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4-0)) date 2022-05-04 20:07:09*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,2.000000X3.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,P6*%
+X89950000Y-69710000D03*
+%TD*%
+%TO.C,P5*%
+X97480000Y-75010800D03*
+%TD*%
+%TO.C,P4*%
+X105090000Y-75010800D03*
+%TD*%
+%TO.C,P3*%
+X89950000Y-75010800D03*
+%TD*%
+%TO.C,P2*%
+X97480000Y-69710000D03*
+%TD*%
+%TO.C,P1*%
+X105090000Y-69710000D03*
+%TD*%
+M02*

@@ -1,9 +1,9 @@
 ![GlowTubeLEDconnectorB_PCB](pcb_3d_view.jpg)
 
 
-# GlowTube LED connector B PCB
+# GlowTube Connector B PCB
 
-The second connecting PCB, to connect two LED strips with each other.
+The second connecting PCB inside GlowTube. For stabilizing the LED strips.
 
 ![GlowTubeLEDconnectorB_PCB](pcb_front.jpg)
 ![GlowTubeLEDconnectorB_PCB](pcb_back.jpg)

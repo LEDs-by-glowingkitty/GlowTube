@@ -1,9 +1,9 @@
 ![GlowTubeLEDconnectorA_PCB](pcb_3d_view.jpg)
 
 
-# GlowTube LED connector A PCB
+# GlowTube Connector A PCB
 
-The first connecting PCB, to connect the LED strips with the main PCB of GlowCore.
+The first connecting PCB inside GlowTube. For connecting the LED strips with the main PCB of GlowTube.
 
 ![GlowTubeLEDconnectorA_PCB](pcb_front.jpg)
 ![GlowTubeLEDconnectorA_PCB](pcb_back.jpg)

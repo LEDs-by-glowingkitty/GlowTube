@@ -1,7 +1,7 @@
 ![GlowTubePCB](pcb_3d_view.jpg)
 
 
-# GlowTube PCB
+# GlowTube Main PCB
 
 The main PCB for GlowTube, controlling and powering the connected LEDs.
 

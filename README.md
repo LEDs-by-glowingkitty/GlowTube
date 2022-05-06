@@ -7,4 +7,6 @@ A beautiful-looking LED lamp for your wall. With an acrylic tube that diffuses t
 ## Links
 
 - [3D models](https://grabcad.com/library/glowtube-1)
-- [PCB files](https://github.com/glowingkitty/GlowTube/tree/main/GlowTubePCB)
+- [Main PCB files](https://github.com/glowingkitty/GlowTube/tree/main/GlowTubePCB)
+- [Connector A PCB files](https://github.com/glowingkitty/GlowTube/tree/main/GlowTubeLEDconnectorA_PCB)
+- [Connector B PCB files](https://github.com/glowingkitty/GlowTube/tree/main/GlowTubeLEDconnectorB_PCB)
